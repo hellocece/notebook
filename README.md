@@ -26,7 +26,7 @@
 * [面向对象的设计面试问题，**有解决方案**](https://github.com/hellocece/system-design-primer#object-oriented-design-interview-questions-with-solutions)
 * [附加系统设计面试问题](https://github.com/hellocece/system-design-primer#additional-system-design-interview-questions)
 
-设计图
+## 目录
 
 ![](/assets/687474703a2f2f692e696d6775722e636f6d2f6a6a3341354e382e706e67.png)
 
