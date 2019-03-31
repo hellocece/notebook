@@ -36,14 +36,18 @@
 
 * 系统设计主题：从这里开始
 
-  第一步：回顾可扩展性的视频讲座
+     第一步：回顾可扩展性的视频讲座
 
-  第二步：回顾可扩展性的文章
+     第二步：回顾可扩展性的文章
 
-  接下来的步骤
+     接下来的步骤
 
-* [性能与拓展性](https://github.com/hellocece/system-design-primer/blob/master/README-zh-Hans.md#%E6%80%A7%E8%83%BD%E4%B8%8E%E5%8F%AF%E6%89%A9%E5%B1%95%E6%80%A7)
-* [延迟与吞吐量](https://github.com/hellocece/system-design-primer/blob/master/README-zh-Hans.md#%E5%BB%B6%E8%BF%9F%E4%B8%8E%E5%90%9E%E5%90%90%E9%87%8F)
+* [性能与拓展性](https://github.com/hellocece/system-design-primer/blob/master/README-zh-Hans.md#性能与可扩展性)
+
+* [延迟与吞吐量](https://github.com/hellocece/system-design-primer/blob/master/README-zh-Hans.md#延迟与吞吐量)
+* [可用性与一致性](https://github.com/hellocece/system-design-primer/blob/master/README-zh-Hans.md#%E5%8F%AF%E7%94%A8%E6%80%A7%E4%B8%8E%E4%B8%80%E8%87%B4%E6%80%A7)
+
+            [CAP 理论](https://github.com/hellocece/system-design-primer/blob/master/README-zh-Hans.md#cap-%E7%90%86%E8%AE%BA)
 
 
 
