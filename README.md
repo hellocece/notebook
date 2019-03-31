@@ -36,8 +36,10 @@
 
 * 系统设计主题：从这里开始
 
-1.  第一步：回顾可扩展性的视频讲座
-2. 
+1. 第一步：回顾可扩展性的视频讲座
+2. [第二步：回顾可扩展性的文章](https://github.com/hellocece/system-design-primer/blob/master/README-zh-Hans.md#%E7%AC%AC%E4%BA%8C%E6%AD%A5%E5%9B%9E%E9%A1%BE%E5%8F%AF%E6%89%A9%E5%B1%95%E6%80%A7%E6%96%87%E7%AB%A0)
+3. [接下来的步骤](https://github.com/hellocece/system-design-primer/blob/master/README-zh-Hans.md#%E6%8E%A5%E4%B8%8B%E6%9D%A5%E7%9A%84%E6%AD%A5%E9%AA%A4)
+
 
 
 
