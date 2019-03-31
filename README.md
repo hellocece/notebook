@@ -36,11 +36,12 @@
 
 * 系统设计主题：从这里开始
 
-      第一步：回顾可扩展性的视频讲座
+  第一步：回顾可扩展性的视频讲座
 
-      [第二步：回顾可扩展性的文章](https://github.com/hellocece/system-design-primer/blob/master/README-zh-Hans.md#第二步回顾可扩展性文章)
+  第二步：回顾可扩展性的文章
 
-      [接下来的步骤](https://github.com/hellocece/system-design-primer/blob/master/README-zh-Hans.md#接下来的步骤)
+  接下来的步骤
 
+* 
 
 
