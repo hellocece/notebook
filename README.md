@@ -48,6 +48,9 @@
 
 * [可用性与一致性](https://github.com/hellocece/system-design-primer/blob/master/README-zh-Hans.md#可用性与一致性)
 
-* 
+ *  [CAP 理论](https://github.com/hellocece/system-design-primer/blob/master/README-zh-Hans.md#cap-%E7%90%86%E8%AE%BA)
+   * [CP - 一致性和分区容错性](https://github.com/hellocece/system-design-primer/blob/master/README-zh-Hans.md#cp--%E4%B8%80%E8%87%B4%E6%80%A7%E5%92%8C%E5%88%86%E5%8C%BA%E5%AE%B9%E9%94%99%E6%80%A7)
+   * [AP - 可用性和分区容错性](https://github.com/hellocece/system-design-primer/blob/master/README-zh-Hans.md#ap--%E5%8F%AF%E7%94%A8%E6%80%A7%E4%B8%8E%E5%88%86%E5%8C%BA%E5%AE%B9%E9%94%99%E6%80%A7)
+
 
 
