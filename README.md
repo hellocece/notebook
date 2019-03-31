@@ -42,7 +42,8 @@
 
   接下来的步骤
 
-* 
-* 
+* [性能与拓展性](https://github.com/hellocece/system-design-primer/blob/master/README-zh-Hans.md#%E6%80%A7%E8%83%BD%E4%B8%8E%E5%8F%AF%E6%89%A9%E5%B1%95%E6%80%A7)
+* [延迟与吞吐量](https://github.com/hellocece/system-design-primer/blob/master/README-zh-Hans.md#%E5%BB%B6%E8%BF%9F%E4%B8%8E%E5%90%9E%E5%90%90%E9%87%8F)
+
 
 
