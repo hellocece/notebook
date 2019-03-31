@@ -1,7 +1,7 @@
 # Summary
 
-* [序言](README.md)
-  * [第一章](di-er-zhang.md)
+1. [序言](README.md)
+2. [第一章](di-er-zhang.md)
 
 
 
